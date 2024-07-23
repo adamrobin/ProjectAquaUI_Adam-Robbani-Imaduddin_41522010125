@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Database Kampus</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">Users</string>
+    <string name="msg_no_notes">Tidak ada data mahasiswa!</string>
+    <string name="lbl_new_note_title">Mahasiswa Baru</string>
+    <string name="lbl_edit_note_title">Edit Mahasiswa</string>
+    <string name="hint_enter_note">Masukkan data Mahasiswa</string>
+    <string name="lbl_new_user_title">Mahasiswa Baru</string>
+    <string name="lbl_edit_user_title">Edit Mahasiswa</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete All</string>
+
+    <string name="activity_title_mata_kuliah">Mata Kuliah</string>
+    <string name="lbl_new_mata_kuliah_title">New Mata Kuliah</string>
+    <string name="lbl_edit_mata_kuliah_title">Edit Mata Kuliah</string>
+    <string name="hint_enter_mata_kuliah">Enter Mata Kuliah details!</string>
+    <string name="enter_all_details">Enter all details!</string>
+    <string name="msg_no_mata_kuliah">No users found!</string>
+</resources>
